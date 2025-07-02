@@ -46,7 +46,7 @@ let products = [
     {
         id: 1, 
         image_circle: 'images/grand-mom-300x300.jpg',
-        images: 'images/hover_images.jpg', 
+        images: 'images/hover_imge.jpg', 
         name: 'GRAND MOMES SECRET HAIR OIL',
         Price: 600,
         discount_price: 300,
@@ -55,7 +55,7 @@ let products = [
     {
         id: 2, 
         image_circle: 'images/hibiscus-and-condi-03-1-300x300.jpg',
-        images: 'images/hibiscus-shampoo-300x300.jpg', 
+        images: 'images/hibiscus-shamppo-300x300.jpg', 
         name: 'HIBISCUS SHAMPOO & CONDITIONER KIT',
         Price: 500,
         discount_price: 350,
@@ -82,7 +82,7 @@ let products = [
     {
         id: 5, 
         image_circle: 'images/item-2.jpeg',
-        images: 'images/hover_images.jpg', 
+        images: 'images/hover_imge.jpg', 
         name: 'FULL BEAUTY COMBO',
         Price: 1400,
         discount_price: 1200,
@@ -90,8 +90,8 @@ let products = [
     },
     {
         id: 6, 
-        image_circle: 'images/black seed 1.jpg',
-        images: 'images/hover_images.jpg', 
+        image_circle: 'images/balck seed 1.jpg',
+        images: 'images/hover_imge.jpg', 
         name: 'BLACK SEED ONION OIL',
         Price: 750,
         discount_price: 550,
