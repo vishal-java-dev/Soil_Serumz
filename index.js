@@ -63,7 +63,7 @@ let products = [
     },
     {
         id: 3, 
-        image_circle: 'images/serum.jpg',
+        image_circle: 'images/SERUM.jpg',
         images: 'images/hair-serum-03-300x300.jpg', 
         name: 'HAIR REGROWTH SERUM',
         Price: 585,
@@ -90,7 +90,7 @@ let products = [
     },
     {
         id: 6, 
-        image_circle: 'images/black-seed-1.jpg',
+        image_circle: 'images/black seed 1.jpg',
         images: 'images/hover_images.jpg', 
         name: 'BLACK SEED ONION OIL',
         Price: 750,
