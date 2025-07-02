@@ -91,7 +91,7 @@ let products=[
     {
         id:6, 
         image_circle:'images/balck seed 1.jpg',
-        images:'images/hover_images.jpg', 
+        images:'../images/hover_images.jpg', 
         name:'BLACK SEED ONION OIL',
         Price:750,
         discount_price:550,
